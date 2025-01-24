@@ -1,18 +1,18 @@
 # ml-environment
 ##
-
+```
 cd /Users/eugene/Desktop/python-data-processing/opencv
 conda activate cv
+```
 
 
-
-
+```
 conda create --name xxx python=3.9
 conda activate xxx
-
-
+```
+```
 pip install -r requirements.txt
-
+```
 ### Create virtual env in Mac OS
 ```
 python3 -m venv myenv1
